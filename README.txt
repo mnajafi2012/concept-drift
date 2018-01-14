@@ -1,7 +1,5 @@
- * Author: Maryam Najafi
+ * Author: Mary Najafi
  * Mar 10, 2017
- * Course:  CSE 5693, Fall 2017
- * Project: HW3, Artificial Neural Networks
  * The following is the manual to run the ANN algorithm.
 ---
 java Main [OPTIONS]
